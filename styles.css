@@ -1,0 +1,22 @@
+.class {
+color: rgb(0, 0, 0);
+background-color: rgb(255, 164, 164);
+font-family: "Veranda", sans-serif;
+font-size: 18px;
+
+}
+
+#id {
+    color:rgb(41, 37, 248);
+    font-size: 36px;
+}
+
+.class.two {
+    font-size: 24px;
+}
+
+#idtwo {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(143, 224, 156);
+}
